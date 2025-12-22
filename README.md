@@ -1,7 +1,3 @@
-# Hi there, I'm Hajdú Patrik!
-
----
-
 ## 🛠️ Technical Stack & Tools
 
 **Languages & Frameworks**
