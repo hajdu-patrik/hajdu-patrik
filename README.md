@@ -24,20 +24,20 @@
 
 ---
 
-## 📚 Ambitions & Professional Engagement
-I am a firm believer that growth happens outside the comfort zone. 
-- **Challenge Driven:** I actively seek out complex architectural problems that require creative and robust solutions.
-- **Competitive Programming & Hackathons:** I frequently participate in professional competitions and hackathons to sharpen my skills and benchmark my knowledge against industry standards.
-- **Networking & Collaboration:** I am highly active in the tech community, attending industry events to connect with innovative companies. My goal is to collaborate with diverse organizations and contribute to high-impact, real-world projects.
+## 🗺️ Ambitions
+I believe that professional growth is a continuous journey that requires stepping outside one's comfort zone to face real-world engineering problems.
+- **Competitive Spirit:** I actively participate in IT and engineering competitions, primarily those organized by the **Budapest University of Technology and Economics (BME)**. These events are vital for testing my problem-solving skills in high-pressure environments.
+- **Future Goals:** While I am currently focused on the domestic engineering scene, I am eager to challenge myself on the **international stage** in the near future to broaden my technical perspective.
+- **Networking:** I value professional communities and regularly attend industry events. My goal is to build meaningful connections with innovative companies and contribute to diverse, scalable projects.
 
 ---
 
-## 👨‍💻 Professional Philosophy
+## 🧠 Philosophy
 My approach is centered around designing **scalable and efficient architectures**. Whether I am working with **C# (.NET)** or **Java**, I leverage **Microsoft SQL Server** and **MongoDB** to ensure performance and reliability. I am committed to continuous learning and the strategic integration of AI tools to accelerate development and improve code quality.
 
 ---
 
-## 🌍 Beyond the Code
+## ✈️ Beyond the Code
 * **Avid Traveler:** One of my primary ambitions is to explore every country in Europe. Having already discovered over half the continent, I am constantly seeking to delve deeper into diverse cultures and unique EU characteristics.
 * **Fitness Enthusiast:** I adhere to a rigorous weekly gym schedule where **consistency is non-negotiable**. This discipline strengthens my perseverance, a quality I bring to every line of code I write.
 * **Personal Growth:** I dedicate a significant portion of my leisure time to continuous learning and professional networking, as both are integral to my development.
