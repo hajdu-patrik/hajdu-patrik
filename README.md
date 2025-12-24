@@ -20,15 +20,12 @@
 
 ---
 
-## 🗺️ Ambitions
+## 🧠 Ambitions & Philosophy
 I believe that professional growth is a continuous journey that requires stepping outside one's comfort zone to face real-world engineering problems.
 - **Competitive Spirit:** I actively participate in IT and engineering competitions, primarily those organized by the **Budapest University of Technology and Economics (BME)**. These events are vital for testing my problem-solving skills in high-pressure environments.
 - **Future Goals:** While I am currently focused on the domestic engineering scene, I am eager to challenge myself on the **international stage** in the near future to broaden my technical perspective.
 - **Networking:** I value professional communities and regularly attend industry events. My goal is to build meaningful connections with innovative companies and contribute to diverse, scalable projects.
 
----
-
-## 🧠 Philosophy
 My approach is centered around designing **scalable and efficient architectures**. Whether I am working with **C# (.NET)** or **Java**, I leverage **Microsoft SQL Server** and **MongoDB** to ensure performance and reliability. I am committed to continuous learning and the strategic integration of AI tools to accelerate development and improve code quality.
 
 ---
