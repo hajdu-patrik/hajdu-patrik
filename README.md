@@ -34,7 +34,7 @@ Currently, I'm exploring the intersection of Cryptography and AI to enhance code
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"  />
 </div>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend (Frameworks, Databases) & Data Science
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"  />
   <img width="12" />
