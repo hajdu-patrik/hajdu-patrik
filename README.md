@@ -6,7 +6,7 @@ Currently, I'm exploring the intersection of Cryptography and AI to enhance code
 
 ---
 
-## 🛠️ Technical Stack & Tools  that I used in the past
+## 🛠️ Technical Stack & Tools
 
 ### 💻 Core Languages
 <div align="left">
@@ -61,3 +61,6 @@ Currently, I'm exploring the intersection of Cryptography and AI to enhance code
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"  />
 </div>
+
+</br>
+(* I used these tools while working with documentation, coding to my liking, using them in vibe coding or just following tutorials... The point is, I'm not a pro in all of them, but my strengths are highlighted above!)
