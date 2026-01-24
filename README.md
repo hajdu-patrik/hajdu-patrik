@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Patrik.
 
-I'm a Computer Engineering student dedicated to designing scalable and efficient backend architectures. I specialize in C# (.NET) and Java, leveraging databases like SQL Server and MongoDB to build robust systems. I believe in growth through challenges, which is why I actively compete in engineering competitions at BME to test my problem-solving skills under pressure.
+I'm a Computer Engineering student dedicated to AI Automation, designing scalable and efficient backend architectures. I specialize in C# (.NET) and Java, leveraging databases like SQL Server and MongoDB to build robust systems. I believe in growth through challenges, which is why I actively compete in engineering competitions at BME to test my problem-solving skills under pressure. | Read my CV here: [CV.pdf](https://github.com/user-attachments/files/24839446/CV.pdf)
 
 Currently, I'm exploring the intersection of Cryptography and AI to enhance code quality and security. When I'm not optimizing code, I'm either hitting the gym or on a mission to travel every country in Europe.
 
@@ -63,4 +63,5 @@ Currently, I'm exploring the intersection of Cryptography and AI to enhance code
 </div>
 
 </br>
+
 (* I used these tools while working with documentation, coding to my liking, using them in vibe coding or just following tutorials... The point is, I'm not a pro in all of them, but my strengths are highlighted above!)
