@@ -72,4 +72,4 @@ Currently, I'm exploring the intersection of Cryptography and AI to enhance code
 
 ---
 
-Read my [ENGLISH CV](https://github.com/user-attachments/files/25156493/CV.EN.pdf) or [HUNGARIAN CV](https://github.com/user-attachments/files/25156485/CV.HU.pdf) here!
+Read my [ENGLISH CV](https://github.com/user-attachments/files/25394648/CV.EN.pdf) or [HUNGARIAN CV](https://github.com/user-attachments/files/25394644/CV.HU.pdf) here!
