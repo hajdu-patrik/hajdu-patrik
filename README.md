@@ -1,8 +1,12 @@
-# 👋 Hi there! I'm Patrik.
+# 👋 Hi, I'm Patrik Zsolt Hajdú.
 
-I'm a Computer Engineering student dedicated to AI Automation, designing scalable and efficient backend architectures. I specialize in C# (.NET) and Java, leveraging databases like SQL Server and MongoDB to build robust systems. I believe in growth through challenges, which is why I actively compete in engineering competitions at BME to test my problem-solving skills under pressure!
+**Computer Engineering Student | Backend Architecture | AI Automation**
 
-Currently, I'm exploring the intersection of Cryptography and AI to enhance code quality and security. When I'm not optimizing code, I'm either hitting the gym or on a mission to travel every country in Europe.
+I am a dedicated software engineer focused on designing scalable, efficient, and secure backend systems. With a strong foundation in C# (.NET), Java (Spring Boot), Postgree DBr, and MongoDB, my goal is to architect solutions that solve real-world problems through clean code and reliable infrastructure.
+
+I am driven by technological challenges. To continuously push my boundaries, I actively compete in BME engineering competitions, testing my problem-solving capabilities and resilience under strict deadlines. My current professional focus lies at the intersection of AI, researching innovative ways to enhance software security and code quality.
+
+When I am away from the keyboard, I channel my discipline into the gym and my curiosity into traveling, with the ultimate goal of exploring every country in Europe.
 
 ---
 
@@ -47,25 +51,36 @@ Currently, I'm exploring the intersection of Cryptography and AI to enhance code
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"  />
 </div>
 
-### 🔧 DevOps & Tools
+### 🔧 Version Control, CI/CD & Code Quality
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
   <img width="12" />
   <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" height="40" alt="github"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="sonarqube"  />
+</div>
+
+### ☕ Build Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle"  />
+</div>
+
+### 🐳 Infrastructure & Containerization
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman"  />
 </div>
 
-</br>
-
-(* I used these tools while working with documentation, coding to my liking, using them in vibe coding or just following tutorials... The point is, I'm not a pro in all of them, but my strengths are highlighted above!)
-
----
-
-Read my [ENGLISH CV](https://github.com/user-attachments/files/25394648/CV.EN.pdf) or [HUNGARIAN CV](https://github.com/user-attachments/files/25394644/CV.HU.pdf) here!
+### 🛠️ API & Development Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/curl/073551" height="40" alt="curl"  />
+</div>
