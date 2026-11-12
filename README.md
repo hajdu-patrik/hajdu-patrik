@@ -1,6 +1,6 @@
 # Hi, I'm Patrik Zsolt Hajdú.
 
-**DevAiOps Engineer | Computer Engineering Student**
+**DevAiOps Engineer | Computer Engineering Student | Founder of [MaKoncert](https://makoncert.hu)**
 
 I am a dedicated software engineer currently working as a **DevAiOps Engineer at DATAGROUP Enterprise Kft.**, while pursuing my studies in Computer Engineering at BME. My focus is on designing scalable, efficient, and secure systems at the intersection of infrastructure automation and artificial intelligence. 
 
@@ -9,6 +9,25 @@ With a strong foundation in C# (.NET), Java (Spring Boot), PostgreSQL, and Mongo
 I am driven by technological challenges. I actively compete in BME engineering competitions, testing my problem-solving capabilities and resilience under strict deadlines. My professional journey is centered on bridging the gap between traditional DevOps practices and AI-driven automation to enhance software security and code quality.
 
 When I am away from the keyboard, I channel my discipline into the gym and my curiosity into traveling, with the ultimate goal of exploring every country in Europe.
+
+---
+
+## 🎸 Featured Project: [MaKoncert](https://makoncert.hu)
+
+**Every live concert in Hungary, in one place.**
+
+I came up with the idea for MaKoncert, built it from scratch, and run it in production myself. It is a free, nonprofit platform that collects concert listings from ticket sellers, venues, and festivals into a single searchable calendar. It doesn't sell tickets: every event links straight to the official seller.
+
+- 🔎 **Unified listings:** searchable, date-sorted concerts with venue, time, price, and ticket link
+- 🗺️ **Explore by city & map:** plus a dedicated festival calendar and a feed of fresh announcements
+- 🔔 **Artist alerts:** follow your favourite artists and get email or in-app notifications when they announce a show
+- 🎧 **Music service integration:** optional Spotify / YouTube Music linking and a weekly Monday digest
+- 🌗 **Polished UX:** light & dark themes, Hungarian and English versions
+- 🤖 **Automated data pipeline:** a polite, robots.txt-compliant crawler keeps the listings up to date
+
+**My role:** Founder · Developer · Operator. I own the whole lifecycle: product idea, design, full-stack development, data collection, deployment, and day-to-day operations.
+
+👉 **Visit it at [makoncert.hu](https://makoncert.hu)**
 
 ---
 
