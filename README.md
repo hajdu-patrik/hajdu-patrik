@@ -105,3 +105,26 @@ I came up with the idea for MaKoncert, built it from scratch, and run it in prod
     <img src="https://cdn.simpleicons.org/resend/000000" height="35" alt="resend" />
   </picture>
 </div>
+
+#### 🤖 AI & LLMs
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/openai.png" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/openai.png" height="35" alt="chatgpt" />
+  </picture>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/claude-color.svg" height="35" alt="claude" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/gemini-color.svg" height="35" alt="gemini" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/minimax-color.svg" height="35" alt="minimax" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/kimi-color.png" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/kimi-color.png" height="35" alt="kimi" />
+  </picture>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/qwen-color.svg" height="35" alt="qwen" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/deepseek-color.svg" height="35" alt="deepseek" />
+</div>
