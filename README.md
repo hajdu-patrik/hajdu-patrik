@@ -110,21 +110,36 @@ I came up with the idea for MaKoncert, built it from scratch, and run it in prod
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/openai.png" />
-    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/openai.png" height="35" alt="chatgpt" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/openai.png" width="35" height="35" alt="chatgpt" />
   </picture>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/claude-color.svg" height="35" alt="claude" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/claude-color.png" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/claude-color.png" width="35" height="35" alt="claude" />
+  </picture>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/gemini-color.svg" height="35" alt="gemini" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/gemini-color.png" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/gemini-color.png" width="35" height="35" alt="gemini" />
+  </picture>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/minimax-color.svg" height="35" alt="minimax" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/minimax-color.png" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/minimax-color.png" width="35" height="35" alt="minimax" />
+  </picture>
   <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/kimi-color.png" />
-    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/kimi-color.png" height="35" alt="kimi" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/kimi-color.png" width="35" height="35" alt="kimi" />
   </picture>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/qwen-color.svg" height="35" alt="qwen" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/qwen-color.png" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/qwen-color.png" width="35" height="35" alt="qwen" />
+  </picture>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.102.0/icons/deepseek-color.svg" height="35" alt="deepseek" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/dark/deepseek-color.png" />
+    <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@2.6.0/light/deepseek-color.png" width="35" height="35" alt="deepseek" />
+  </picture>
 </div>
